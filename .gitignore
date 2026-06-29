@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.mp3
+*.wav
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+ComfyUI/
+models/
+output/
