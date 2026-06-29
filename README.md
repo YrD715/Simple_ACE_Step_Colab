@@ -1,17 +1,18 @@
 # Simple ACE-Step 1.5 Turbo Colab
 
-This is a Google Colab notebook that runs a simple AI song generator using ComfyUI and ACE-Step 1.5 Turbo.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YrD715/Simple_ACE_Step_Colab/blob/main/Simple_ACE_Step_Colab.ipynb)
 
-The notebook installs ComfyUI, downloads the required ACE-Step model files, starts ComfyUI in the background, and opens a simple Gradio web interface for generating songs.
+A Google Colab notebook that runs ACE-Step 1.5 Turbo through a hidden ComfyUI backend and opens a simple Gradio song-making interface.
 
-## How to Use
+## Start Here
 
-1. Open `Simple_ACE_Step_Colab.ipynb` in Google Colab.
-2. In Colab, click **Runtime → Change runtime type**.
-3. Set **Hardware accelerator** to **T4 GPU**.
-4. Run the cells from top to bottom.
-5. If Colab asks you to restart the runtime after installing packages, do **not** restart. Close the popup and continue.
-6. When the final cell shows a public Gradio link, open that link in a new tab.
+Click the **Open in Colab** button above.
+
+Before running the notebook, choose:
+
+**Runtime → Change runtime type → T4 GPU**
+
+If Colab asks you to restart the runtime after installing packages, do **not** restart. Close the popup and continue.
 
 ## First Test
 
